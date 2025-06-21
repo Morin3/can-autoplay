@@ -15,7 +15,7 @@
     "jsdom": "^11.4.0",
     "mime-types": "^2.1.17",
     "rollup": "^0.55.1",
-    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-babel": "^4.4.0",
     "standard": "^10.0.3"
   },
   "scripts": {
